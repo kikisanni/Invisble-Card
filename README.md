@@ -1,4 +1,4 @@
-This project aims to show that a card can be hidden.
+This project aims at showung that a card can be hidden.
 In order to show the invsible card, hover the surface at the center of the page,
 and the invisible card will appear.
 
